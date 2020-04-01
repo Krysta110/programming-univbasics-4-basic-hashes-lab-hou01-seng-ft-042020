@@ -10,6 +10,7 @@ def my_hash
     :age => "35",
     :hair => "brown",
   }
+  return krysta
 end
 
 def pioneer
