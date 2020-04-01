@@ -1,6 +1,6 @@
 def new_hash
   # return an empty hash
-  krysta = hash.new
+  krysta = {}
   return krysta
 end
 
